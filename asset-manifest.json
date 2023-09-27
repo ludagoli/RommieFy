@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RommieFy/static/css/main.5d1bcf1d.css",
+    "main.js": "/RommieFy/static/js/main.06adcbb6.js",
+    "static/media/web-dev.svg": "/RommieFy/static/media/web-dev.fd61237124f5b922e412437caf61ea58.svg",
+    "static/media/Web-developer.svg": "/RommieFy/static/media/Web-developer.6c7276fff94ccaae45617195f0ef27ae.svg",
+    "index.html": "/RommieFy/index.html",
+    "main.5d1bcf1d.css.map": "/RommieFy/static/css/main.5d1bcf1d.css.map",
+    "main.06adcbb6.js.map": "/RommieFy/static/js/main.06adcbb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d1bcf1d.css",
+    "static/js/main.06adcbb6.js"
+  ]
+}
